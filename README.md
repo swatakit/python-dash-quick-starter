@@ -1,5 +1,4 @@
-# Building a Dashboard with Dash
-## A Quick Starter for Plotly, Dash, and Dash-Bootstrap-Component
+# Building a Dashboard with Dash - A Quick Starter for Plotly, Dash, and Dash-Bootstrap-Component
 
 ## Recommended Python  version
 Python 3.8 or later. 
