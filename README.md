@@ -1,1 +1,1 @@
-# python-dash-quick-starter
+# Building a Dashboard with Dash - A Quick Starter
