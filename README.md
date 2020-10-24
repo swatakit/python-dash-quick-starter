@@ -3,6 +3,15 @@
 ## Recommended Python  version
 Python 3.8 or later. 
 
+## Prepration
+<code>
+conda create --name dash-3.8 python=3.8
+activate dash-3.8
+conda install pandas
+conda install dash
+conda install -c conda-forge dash-bootstrap-components
+</code>
+
 ## Authors
 
 * **Siraprapa Watakit**  
